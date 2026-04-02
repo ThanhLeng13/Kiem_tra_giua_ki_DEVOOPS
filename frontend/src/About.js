@@ -24,7 +24,7 @@ function About() {
         }}
       >
         <h1 style={{ marginBottom: "24px" }}>Thông tin sinh viên</h1>
-        <p><strong>Họ tên:</strong> [Ly Thanh Long]</p>
+        <p><strong>Họ tên:</strong> [Lý Thành Long]</p>
         <p><strong>MSSV:</strong> [2251220144]</p>
         <p><strong>Lớp:</strong> [22CT4]</p>
       </div>
